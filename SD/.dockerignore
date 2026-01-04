@@ -1,0 +1,7 @@
+cache/
+models/
+outputs/
+extensions/
+embeddings/
+.git
+.gitignore
